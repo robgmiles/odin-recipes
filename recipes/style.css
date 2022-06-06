@@ -1,0 +1,24 @@
+h1 {
+    color:blueviolet;
+}
+li {
+    color: orangered;
+    font-size: larger;
+}
+
+.container {
+    margin: 75px;
+    color: magenta;
+    background-color: aqua;
+    text-align: center;
+    width: 500px;
+    height: 100px;
+}
+#id-test1 {
+    color: green;
+    font-size: 22px;
+}
+.heading1 {
+    font-family: 'Courier New', Courier, monospace;
+    color: teal;
+}
